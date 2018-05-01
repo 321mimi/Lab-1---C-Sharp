@@ -1,0 +1,14 @@
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Michelle\Desktop\lab1\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\lab1\lab1\lab1\obj\Debug\lab1.pdb
